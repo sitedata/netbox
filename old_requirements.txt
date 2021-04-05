@@ -1,3 +1,4 @@
 django-rest-swagger
 psycopg2
 pycrypto
+djangorestframework>=3.11.2 # not directly required, pinned by Snyk to avoid a vulnerability
